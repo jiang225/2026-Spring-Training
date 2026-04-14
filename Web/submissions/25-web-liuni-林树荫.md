@@ -18,23 +18,28 @@ Flag: `NSSCTF {We1c0me\_t0\_WLLMCTF\_Th1s\_1s\_th3\_G1ft}`
 
 解题思路: F12 查看 HTML，Flag 隐藏在HTML代码中。
 
-!\[](C:/Users/liu'ni/Downloads/1.png)
+<img width="1274" height="695" alt="1" src="https://github.com/user-attachments/assets/e020cff5-1739-41b0-888f-46b24d42f1a0" />
+
 
 2\. 隐藏入口 (secret.php)
 
 Flag: `NSSCTF {0c659c79-c056-4932-870b-295b483de96d}` \[cite\_start]解题思路: 题目提供 `secret.php`，通过输入框进入后台，获取账号密码登录后获取 Flag。
 
-!\[](C:/Users/liu'ni/Downloads/2.png)
+<img width="375" height="100" alt="2" src="https://github.com/user-attachments/assets/c39afc24-8460-44ed-b98a-e6511512c435" />
 
-!\[](C:/Users/liu'ni/Downloads/3.png)
 
-!\[](C:/Users/liu'ni/Downloads/4.png)
+<img width="369" height="165" alt="3" src="https://github.com/user-attachments/assets/d4f29d7a-83c6-43b0-8a3e-b200a91e15b0" />
+
+
+<img width="352" height="175" alt="4" src="https://github.com/user-attachments/assets/d0883702-949b-46db-93b5-520dad2d4cb4" />
+
 
 3\. 青少年CTF - robots 协议
 
 Flag: `flag{97fd01137dfe40088cfe1967be421d84}` \* \[cite\_start]解题思路:     根据提示发起 GET 请求，在输入框中输入/?moe=flag,符合PHP代码判断条件，此时返回 Flag。
 
-!\[](C:/Users/liu'ni/Downloads/5.png)
+<img width="390" height="62" alt="5" src="https://github.com/user-attachments/assets/899f7a9f-56e9-4a6e-9f62-20e1b34737ff" />
+
 
 \---
 
@@ -46,15 +51,18 @@ Hackbar	从 GitHub 下载免费版，通过 Firefox 插件安装。
 
 Burp Suite	核心抓包工具，从网上获取。
 
-!\[](C:/Users/liu'ni/Downloads/6.png)
+<img width="543" height="454" alt="6" src="https://github.com/user-attachments/assets/05eae80e-4eab-41a8-a48b-f08c58257dde" />
 
-!\[](C:/Users/liu'ni/Downloads/7.png）
+
+<img width="534" height="224" alt="7" src="https://github.com/user-attachments/assets/fd663968-96bc-4dfb-a315-c0ef86345edf" />
+
 
 Dirsearch	目录扫描工具，从 GitHub 官方仓库下载。
 
 \---
 
-!\[]（C:/Users/liu'ni/Downloads/8.png）
+<img width="519" height="390" alt="8" src="https://github.com/user-attachments/assets/091db5ac-da9d-4c23-8c36-4cb0c487f13e" />
+
 
 Linux 系统环境搭建
 
